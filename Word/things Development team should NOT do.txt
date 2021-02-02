@@ -1,0 +1,14 @@
+1st – Don’t assign stories to developers 
+The Development Team pulls work from the Product Backlog to the Sprint Backlog, and I think everyone understands that. The Product Owner or the Scrum Master should not assign work to the Development Team. The Development Team Members should also not just divide like your story vs. my story. The Development Team should look for the possibility to see how they can complete stories incrementally within the Sprint by working together. It is more like 2-3 team members pull one story to complete within 2-4 days collectively. It helps in minimizing spillover as they can get feedback early to adjust changes if needed. It also helps the team care about each other and learn each different skills to support when needed.    
+
+2nd – Don’t create skills-based tasks
+Having sub-tasks like design, coding, writing test cases, functional testing and code reviews, etc., promote a mini-waterfall kind of process during development. Not having sub-tasks may sound good, but it has to be done carefully to avoid transparency issues. Having component-based tasks like mobile interface, web interface, backend service, integration, etc. is better as it promotes collective ownership. Skill-based tasks may impact the transparency and generate more technical debts too. You can read more about it here.
+
+3rd – Don’t force the development team to match the velocity
+Velocity is not a way to measure productivity. See how to maximize work value by enabling teams to work on high valued Product Backlog Items. Velocity is good for forecasting when there is no change in the Sprint cycle and team composition. It is like based on speed on the highway cannot help measuring how much one can travel within an hour in city traffic. Similarly, changing drivers will impact speed, so not possible to forecast based on previous driver velocity if there is a new driver.  
+
+4th – Don’t plan only defects for the sprint 
+Focus on how to reduce defects by influencing factors that cause so many defects. Having a few stories helps in learning the expectations of the stakeholders. See how the team plans to reduce the technical debt because more technical debts mean higher total cost of ownership. Look for possibilities to adopt excellent technical practices such as Behavior-Driven Development, Agile Analysis, and other Extreme Programming practices.    
+
+5th – Don’t have a generic sprint goal 
+A generic goal doesn’t define a clear purpose of the Sprint. Have a specific sprint goal and ordered Product Backlog Items around that helps the team to stay focus throughout development. Goals like high-quality work, meet all acceptance criteria or deliver all the backlog items are not a good goal and these are part of the Definition of Done. Think about users and see how users can benefit from the outcome of the Sprint. 
